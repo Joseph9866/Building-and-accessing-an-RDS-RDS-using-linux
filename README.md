@@ -37,4 +37,4 @@ Through this lab, I gained hands-on experience with:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/AWS-RDS-Challenge-Lab.git
+  https://github.com/Joseph9866/Building-and-accessing-an-RDS-RDS-using-linux.git
